@@ -20,23 +20,23 @@ $menu = [
             ],
         ]
     ],
-    [
-        "icon" => "person",
-        "label" => "Detail Layanan",
+   [
+        "icon" => "user",
+        "label" => "Detail_layanan",
         "items" => [
             [
-                "link" => "detail-layanan.php",
-                "label" => "detail layanan"
+                "link" => "detail_layanan.php",
+                "label" => "Detail_layanan"
             ],
         ]
     ],
     [
-        "icon" => "flower",
-        "label" => "Kategori montir",
+        "icon" => "user",
+        "label" => "Kategori_montir",
         "items" => [
             [
-                "link" => "kategori-montir.php",
-                "label" => "Kategori Montir"
+                "link" => "kategori_montir.php",
+                "label" => "Kategori_Montir"
             ],
         ]
     ]
